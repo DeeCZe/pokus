@@ -714,7 +714,7 @@ async def affiliate(interaction: discord.Interaction, user: discord.Member) :
         return
     set_affiliate(uid, str(user.id))
     await log(f"<@{uid}> Affiliated <@{user.id}>")
-    add_gems(uid, 500000000)
+    add_gems(uid, 5000)
     embed = discord.Embed(title="",
                           description=f":white_check_mark: You Are Now Affiliated To <@{user.id}>",
                           color=0x98ff61)
