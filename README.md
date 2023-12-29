@@ -12,7 +12,6 @@ A gambling bot for pet simulator 99, the sequel to pet simulator x
 🪙 - **Coinflip:** Pick a bet and heads or tails and a coinflip will be created a channel, anyone can join this coinflip or you can call the bot to play with you  
 💼 - **Cases:** Open cases to either get a pet worth less than what you paid for the case or more  
 🍀 - **Upgrader:** Multiply your gems  
-🃏 - **Blackjack:** Play Blackjack with your gems  
 🎲 - **Dice:** Roll a dice against the bot and get 3x your bet if you win  
 
 ## Features
