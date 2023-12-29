@@ -18,28 +18,28 @@ from quart import Quart, request, jsonify
 app = Quart(__name__)
 
 Config = {
-    "Towers" : {
+    "Towers" : { # Config for towers
         "WinChance" : 63,  # Percent they will win when they click a tower
         "Multis" : [1.42, 2.02, 2.86, 4.05, 5.69]  # Multipliers On The Blocks
     },
-    "Mines" : {
+    "Mines" : { # Config for mines
         "House" : 0.1,  # The Multiplier Will Be Multiplied by 1.00 - This
     },
-    "Logs": 1189453527462981704,
-    "Crash" : {
+    "Logs": 1189453527462981704, # log channel
+    "Crash" : { # Config for crash
         "InstaCrashChance" : 10,  # Chance That It Will Crash at 1.00x
         "CrashChance" : 2,  # The Lower This Number Is The Higher Your Multipliers Will Average, I find 2 is the best
         "ChannelID" : "1189453154409005056"  # Id of the channel crash games will be in
     },
-    "Coinflip" : {
+    "Coinflip" : { # Config for coinflip
         "1v1" : "1189453352036216892",  # Channel That Coinflips Be In
         "House": 3.5 # House Edge (%)
     },
-    "Rains" : {
+    "Rains" : { # Config for rains
         "Channel" : "1189453393014575115" # Set to the id the channel rains will be in
     },
-    "Upgrader": {
-        "House": 0.95
+    "Upgrader": { # Config for upgrader
+        "House": 0.95 # house edge (winnings*house)
     },
     "Rakeback" : 1, # Rakeback %
     "Username": "henrymistert5", # The Username Of The Account Running The Bot
