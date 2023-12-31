@@ -21,7 +21,7 @@ A gambling bot for pet simulator 99, the sequel to pet simulator x
 
 ## Servers That Use This
 
-https://discord.gg/8QWC59AJ
-https://discord.gg/4pNA9CxJ
+https://discord.gg/8QWC59AJ  
+https://discord.gg/4pNA9CxJ  
 
 Dm me on discord (henrymistert_) if you want your server added
