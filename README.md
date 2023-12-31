@@ -1,8 +1,6 @@
 # Pet-Simulator-99-Gambling-Bot
 A gambling bot for pet simulator 99, the sequel to pet simulator x  
 
-## Setup Tutorial Vid Coming Soon
-
 ## Games
 
 💣 - **Mines:** The user picks a bet and a certain amount of bombs and has to press buttons in a 5x5 grid to uncover tiles to either increase their multiplier if its safe, or lose their multiplier if its a bomb  
@@ -21,4 +19,9 @@ A gambling bot for pet simulator 99, the sequel to pet simulator x
 💖 **Tipping:** Give someone free gems  
 🌧️ **Rains:** Rain your gems and they get split between everyone that joins the rain
 
-stop reselling please
+## Servers That Use This
+
+https://discord.gg/8QWC59AJ
+https://discord.gg/4pNA9CxJ
+
+Dm me on discord (henrymistert_) if you want your server added
