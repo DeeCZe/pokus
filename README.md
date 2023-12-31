@@ -19,9 +19,4 @@ A gambling bot for pet simulator 99, the sequel to pet simulator x
 💖 **Tipping:** Give someone free gems  
 🌧️ **Rains:** Rain your gems and they get split between everyone that joins the rain
 
-## Servers That Use This
-
-https://discord.gg/8QWC59AJ  
-https://discord.gg/4pNA9CxJ  
-
-Dm me on discord (henrymistert_) if you want your server added
+Dm me on discord (henrymistert_) if you need help with the setup
