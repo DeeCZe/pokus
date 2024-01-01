@@ -1,4 +1,4 @@
-huge update coming to this soon to keep upwith the quality of closed source bots
+huge update coming to this soon to keep up with the quality of closed source bots
 
 # Pet-Simulator-99-Gambling-Bot
 A gambling bot for pet simulator 99, the sequel to pet simulator x  
