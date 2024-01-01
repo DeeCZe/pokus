@@ -1,4 +1,5 @@
-huge update coming to this soon to keep up with the quality of closed source bots
+## This is the free version!  
+contact me on discord (henrymistert_) for a showcase of the premium version or if you want to put an offer in! It is much more clean, user friendly and has more features.
 
 # Pet-Simulator-99-Gambling-Bot
 A gambling bot for pet simulator 99, the sequel to pet simulator x  
