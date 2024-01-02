@@ -1,7 +1,7 @@
 ## This is the free version!  
 contact me on discord (henrymistert_) for a showcase of the premium version or if you want to put an offer in! It is much more clean, user friendly and has more features.
 
-youcan see screenshots of it [here](https://github.com/Henrymistert123/Premium-Gambling-Bot-Images/blob/main/README.md)
+you can see screenshots of it [here,](https://github.com/Henrymistert123/Premium-Gambling-Bot-Images/blob/main/README.md)
 
 # Pet-Simulator-99-Gambling-Bot
 A gambling bot for pet simulator 99, the sequel to pet simulator x  
