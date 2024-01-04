@@ -1,3 +1,5 @@
+https://discord.com/invite/5qVa966p2n support server, please join it i need members  
+
 ## This is the free version!  
 contact me on discord (henrymistert_) for a showcase of the premium version or if you want to put an offer in! It is much more clean, user friendly and has more features.
 
