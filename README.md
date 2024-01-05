@@ -25,5 +25,3 @@ A gambling bot for pet simulator 99, the sequel to pet simulator x
 💎 **Rake Back:** Get a percentage of your losses back  
 💖 **Tipping:** Give someone free gems  
 🌧️ **Rains:** Rain your gems and they get split between everyone that joins the rain
-
-Dm me on discord (henrymistert_) if you need help with the setup
